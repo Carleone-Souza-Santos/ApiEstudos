@@ -8,7 +8,13 @@
 * Express is a minimalist framework for Node.js that makes it easy to create web applications and APIs.
 * Prisma is a modern ORM (Object-Relational Mapping) that facilitates interaction with databases.
 * JSON (JavaScript Object Notation) is a lightweight and easy-to-read data interchange format.
-* Mongo db database. 
+* Mongo db database.
+
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
