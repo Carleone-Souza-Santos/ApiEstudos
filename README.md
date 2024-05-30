@@ -9,6 +9,7 @@
 * Prisma is a modern ORM (Object-Relational Mapping) that facilitates interaction with databases.
 * JSON (JavaScript Object Notation) is a lightweight and easy-to-read data interchange format.
 * Mongo db database.
+* the tests were applied with Thunder Client.
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
